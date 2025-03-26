@@ -63,8 +63,8 @@ pages.
 | 2.16.x       | October 01, 2024   | Not Supported    |
 | 2.17.x       | November 05, 2024  | Not Supported    |
 | 2.18.x       | December 03, 2024  | Security Support |
-| 2.19.x       | February 04, 2024  | Stable           |
-| 2.20.x       | March 05, 2024     | Mainline         |
+| 2.19.x       | February 04, 2025  | Stable           |
+| 2.20.x       | March 05, 2025     | Mainline         |
 
 > [!TIP]
 > We publish a
